@@ -11,26 +11,26 @@
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "h364973@gmail.com",
-    "PASSWORD": "01062008@",
-    "ACCESSTOKEN": "EAAAAUaZA8jlABOwMLg1aqk0PiggpZCDd6arynE9FudoieCX9zyvssHF2hgbYdhxH5pAIXCkaVIOnXuMQiaGPnZAq7n1yUZCNpdQyhsNDxHDa20RScQ8v6R8Mlneu8wS1ZCtV0aGGhcT6EXVp25shATCEsiqKBYotIL8sc9BqzPCfj7NVrdMr7pYxOWwZDZD",
+    "EMAIL": "zeusproject914@gmail.com",
+    "PASSWORD": "botkhanh2024@",
+    "ACCESSTOKEN": "EAAH08FZCYNKsBO2wqLgj9a0xZCL52kto8FX7evHAj7mlkO9afBTZBESNpaSJ41wJVhUeYxlIH53lPKb4bz6PmXujF4DFRcHzNiIjIt9ZCYFGeQyGFuXC9RGc2y9lv7aaqJogZCA4aZBwhOoQZCi6SxsjjK0FKg6SfwXnAS0yIe65gpPpB1tHlxinwZBgVtE7yCjPs70ZD",
     "BOTNAME": "ʙʟᴀᴄᴋ",
-    "ADMIN_NAME": "VLjnh",
-    "FACEBOOK_ADMIN": "m.me/culo2006",
-    "TELEGRAM_ADMIN": "t.me/linhdangbuda",
-    "ZALO_ADMIN": "0336176273",
+    "ADMIN_NAME": "Khanh Shado",
+    "FACEBOOK_ADMIN": "m.me/100090458979403",
+    "TELEGRAM_ADMIN": "t.me/",
+    "ZALO_ADMIN": "",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100069864945865",
+        "100090458979503",
         "",
-        "100068009795358",
-        "100066544365480"
+        "",
+        ""
     ],
     "NDH": [
         ""
     ],
     "CONTACT": [
-        "100069864945865"
+        "100090458979503"
     ],
     "DATABASE": {
         "sqlite": {
